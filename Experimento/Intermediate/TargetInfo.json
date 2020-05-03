@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Experimento",
+			"Path": "C:\\Users\\victo\\Documents\\Unreal Projects\\Experimento\\Source\\Experimento.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ExperimentoEditor",
+			"Path": "C:\\Users\\victo\\Documents\\Unreal Projects\\Experimento\\Source\\ExperimentoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

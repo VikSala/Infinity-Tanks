@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Experimento.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{09B473B2-3ED0-4370-A70D-47E7BE8BDAB4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Experimento.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ExperimentoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C58FB501-A0F6-4E1A-89D7-BA59E4F521CC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Experimento">
+      <UniqueIdentifier>{F48E8E8F-093B-4062-8D83-51370441B31C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Experimento\Experimento.Build.cs">
+      <Filter>Source\Experimento</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Experimento\Experimento.cpp">
+      <Filter>Source\Experimento</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento\Experimento.h">
+      <Filter>Source\Experimento</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento\ExperimentoGameModeBase.cpp">
+      <Filter>Source\Experimento</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento\ExperimentoGameModeBase.h">
+      <Filter>Source\Experimento</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
