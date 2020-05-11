@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Experimento",
-			"Path": "C:\\Users\\victo\\Documents\\Unreal Projects\\Experimento\\Source\\Experimento.Target.cs",
+			"Path": "D:\\Users\\victo\\Documents\\Infinity-Tanks\\Experimento\\Source\\Experimento.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ExperimentoEditor",
-			"Path": "C:\\Users\\victo\\Documents\\Unreal Projects\\Experimento\\Source\\ExperimentoEditor.Target.cs",
+			"Path": "D:\\Users\\victo\\Documents\\Infinity-Tanks\\Experimento\\Source\\ExperimentoEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

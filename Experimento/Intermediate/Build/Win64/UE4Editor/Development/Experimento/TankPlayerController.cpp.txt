@@ -1,0 +1,5 @@
+D:\Users\victo\Documents\Infinity-Tanks\Experimento\Intermediate\Build\Win64\UE4Editor\Development\Experimento\Definitions.Experimento.h
+D:\Users\victo\Documents\Infinity-Tanks\Experimento\Source\Experimento\Public\TankPlayerController.h
+D:\Users\victo\Documents\Infinity-Tanks\Experimento\Source\Experimento\Public\Tank.h
+D:\Users\victo\Documents\Infinity-Tanks\Experimento\Intermediate\Build\Win64\UE4Editor\Inc\Experimento\Tank.generated.h
+D:\Users\victo\Documents\Infinity-Tanks\Experimento\Intermediate\Build\Win64\UE4Editor\Inc\Experimento\TankPlayerController.generated.h
